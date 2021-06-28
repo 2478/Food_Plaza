@@ -1,6 +1,6 @@
 # Food_Plaza
 <img src="https://media3.giphy.com/media/3aZGsKo5yM5D8JxnkE/giphy.webp?cid=ecf05e47ncy9bs9x4ip33epbrcgdu966ajcchi1ose2b6br0&rid=giphy.webp&ct=s" width="50px">&nbsp; ***Used Languages:*** <img src="https://media3.giphy.com/media/3aZGsKo5yM5D8JxnkE/giphy.webp?cid=ecf05e47ncy9bs9x4ip33epbrcgdu966ajcchi1ose2b6br0&rid=giphy.webp&ct=s" width="50px">&nbsp;
-
+<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/2KtWz6vvvRvKU/200w.webp?cid=ecf05e472omtc23zua58g7n4imhobn5iyl09sk8hr5v2ri2i&rid=200w.webp&ct=s">
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
